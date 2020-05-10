@@ -10,9 +10,9 @@ This repo is used as a IEEE latex template for author's future graduate study. T
 
 Just make sure the following core files are included: <br>
 
->conference_xxxxxx.pdf
->conference_xxxxxx.tex
->IEEEtran.cls
+>conference_xxxxxx.pdf <br>
+>conference_xxxxxx.tex <br>
+>IEEEtran.cls <br>
 >IEEEtran_HOWTO.pdf
 
 ## Table of Contents
@@ -22,9 +22,9 @@ Just make sure the following core files are included: <br>
 
 ## Environment
 
-*Either the latest version of [Tex](https://www.latex-project.org/) language
-*The latest version of [Texstudio](http://texstudio.sourceforge.net/)
+* Either the latest version of [Tex](https://www.latex-project.org/) language <br>
+* The latest version of [Texstudio](http://texstudio.sourceforge.net/)
 
 ## Maintainers
 
-[@LaoHuang-xX](https://github.com/LaoHuang-xX)
+[@LaoHuang-xX](https://github.com/LaoHuang-xX) ![](https://avatars.githubusercontent.com/LaoHuang-xX)
