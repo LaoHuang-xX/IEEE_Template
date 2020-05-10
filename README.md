@@ -27,4 +27,4 @@ Just make sure the following core files are included: <br>
 
 ## Maintainers
 
-[@LaoHuang-xX](https://github.com/LaoHuang-xX) ![](https://avatars.githubusercontent.com/LaoHuang-xX)
+[@LaoHuang-xX](https://github.com/LaoHuang-xX) ![](https://avatars2.githubusercontent.com/u/23581736?s=400&u=f5f7443e2ae85a7cb29682a01c55a5729596919b&v=4)
