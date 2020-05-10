@@ -1,5 +1,8 @@
-language: Tex
-node_js: "2.9.7400"
+language: MiKTex
+MiKTex: "2.9.7400"
+
+install: true
+script: true
 
 branches:
   only:
