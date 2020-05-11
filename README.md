@@ -38,4 +38,5 @@ git clone https://github.com/LaoHuang-xX/IEEE_Template.git
 
 ## Maintainers
 
-[@LaoHuang-xX](https://github.com/LaoHuang-xX) ![](https://avatars2.githubusercontent.com/u/23581736?s=60&v=4)
+![](https://avatars2.githubusercontent.com/u/23581736?s=60&v=4) <br>
+[@LaoHuang-xX](https://github.com/LaoHuang-xX)
