@@ -31,12 +31,12 @@ Just make sure the following core files are included: <br>
 **Before operating this section, make sure you have went through all the steps in [Environment](#environment).** <br>
 The project can be downloaded by simply bash commands:
 
-'''Bash
-cd <target directory>
+```Bash
+cd <target directory> <br>
 git clone https://github.com/LaoHuang-xX/IEEE_Template.git
-'''
+```
 
 ## Maintainers
 
-[@LaoHuang-xX](https://github.com/LaoHuang-xX) [![avatar]](https://avatars2.githubusercontent.com/u/23581736?s=60&v=4)
-[avatar]:https://github.com/LaoHuang-xX
+[@LaoHuang-xX](https://github.com/LaoHuang-xX) [![avatar]](https://github.com/LaoHuang-xX)
+[avatar]:https://avatars2.githubusercontent.com/u/23581736?s=60&v=4
