@@ -18,6 +18,7 @@ Just make sure the following core files are included: <br>
 ## Table of Contents
 
 - [Environment](#environment)
+- [Download](#download)
 - [Maintainers](#maintainers)
 
 ## Environment
@@ -25,6 +26,17 @@ Just make sure the following core files are included: <br>
 * Either the latest version of [Tex](https://www.latex-project.org/) language <br>
 * The latest version of [Texstudio](http://texstudio.sourceforge.net/)
 
+## Download
+
+**Before operating this section, make sure you have went through all the steps in [Environment](#environment).** <br>
+The project can be downloaded by simply bash commands:
+
+'''Bash
+cd <target directory>
+git clone https://github.com/LaoHuang-xX/IEEE_Template.git
+'''
+
 ## Maintainers
 
-[@LaoHuang-xX](https://github.com/LaoHuang-xX) ![](https://avatars2.githubusercontent.com/u/23581736?s=60&v=4)
+[@LaoHuang-xX](https://github.com/LaoHuang-xX) [![avatar]](https://avatars2.githubusercontent.com/u/23581736?s=60&v=4)
+[avatar]:https://github.com/LaoHuang-xX
