@@ -24,7 +24,7 @@ Just make sure the following core files are included: <br>
 ## Environment
 
 * Either the latest version of [Tex](https://www.latex-project.org/) language <br>
-* The latest version of [Texstudio](http://texstudio.sourceforge.net/)
+* (Optional but strongly suggested) The latest version of [TeXstudio](http://texstudio.sourceforge.net/)
 
 ## Download
 
