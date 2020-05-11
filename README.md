@@ -28,15 +28,14 @@ Just make sure the following core files are included: <br>
 
 ## Download
 
-**Before operating this section, make sure you have went through all the steps in [Environment](#environment).** <br>
-The project can be downloaded by simply bash commands:
+**Before operating this section, make sure you have gone through all the steps in [Environment](#environment).** <br>
+The project can be downloaded by simply [Git Bash](https://gitforwindows.org/) commands:
 
 ```Bash
-cd <target directory> <br>
+cd <target directory>
 git clone https://github.com/LaoHuang-xX/IEEE_Template.git
 ```
 
 ## Maintainers
 
-[@LaoHuang-xX](https://github.com/LaoHuang-xX) [![avatar]](https://github.com/LaoHuang-xX)
-[avatar]:https://avatars2.githubusercontent.com/u/23581736?s=60&v=4
+[@LaoHuang-xX](https://github.com/LaoHuang-xX) [![avatar]](https://github.com/LaoHuang-xX)[avatar]:https://avatars2.githubusercontent.com/u/23581736?s=60&v=4 "logo"
